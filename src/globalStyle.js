@@ -15,19 +15,20 @@ const GlobalStyle = createGlobalStyle`
     block-size: 100vh;
   }
 
-  table {
+  .board {
     margin: 0;
     padding: 0;
     border-collapse: collapse;
-    inline-size: 100%;
-    block-size: 100%;
+    inline-size: 600px;
+    block-size: 600px;
+    display: flex;
+    flex-wrap: wrap;
   }
 
-  td {
-    border: 1px solid black;
-    inline-size: 40px;
-    block-size: 40px;
-  }
+.board img {
+  inline-size: 60px;
+  block-size: 60px;
+}
 `;
 
 export default GlobalStyle;

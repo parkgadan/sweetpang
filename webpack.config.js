@@ -11,7 +11,7 @@ module.exports = {
     extensions: [".js", ".jsx"],
   },
   entry: {
-    app: "./index",
+    app: "./bundle",
   },
   module: {
     rules: [
@@ -32,6 +32,16 @@ module.exports = {
           plugins: ["react-refresh/babel"],
         },
         exclude: path.join(__dirname, "node_modules"),
+      },
+      {
+        test: /\.(png|jpg|jpeg|gif)$/,
+        exclude: /node_module/,
+        use: {
+          loader: "file-loader",
+          options: {
+            name: "[name].[chunkhash].[ext]",
+          },
+        },
       },
     ],
   },

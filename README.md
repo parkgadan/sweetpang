@@ -14,17 +14,21 @@
 
 <br/>
 
-## Flowchart
-
-![Sweetpang-flowchart](https://user-images.githubusercontent.com/90893596/164357149-e9b68c11-7d1f-423e-a3e0-06127dd62269.png)
-
-<br/>
-
 ## Retrospective
 
-- [220422 개발일지](https://github.com/dannsgo/sweetpang)
+- [2022-04-21_개발일지](https://dannsgo.com/retrospective/20220421/)
+  - Flowchart
+
+- [2022-04-22_개발일지](https://dannsgo.com/retrospective/20220422/)
+- [2022-04-23_개발일지](https://dannsgo.com/retrospective/20220423/)
+- [2022-04-26_개발일지](https://dannsgo.com/retrospective/20220426/)
+- [2022-04-27_개발일지](https://dannsgo.com/retrospective/20220427/)
+  - error
+
 
 <br/>
 
-## Contributors
-
+## Contributor
+<a href="https://github.com/dannsgo">
+	<img style="height:auto; border-radius:50%;" width="150" height="150" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/90893596?v=4">
+</a>
