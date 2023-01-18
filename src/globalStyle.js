@@ -19,15 +19,15 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     border-collapse: collapse;
-    inline-size: 560px;
-    block-size: 560px;
+    inline-size: 500px;
+    block-size: 500px;
     display: flex;
     flex-wrap: wrap;
   }
 
 .board img {
-  inline-size: 70px;
-  block-size: 70px;
+  inline-size: 50px;
+  block-size: 50px;
 }
 `;
 
