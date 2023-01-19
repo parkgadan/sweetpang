@@ -6,5 +6,24 @@ import lollipop from "../images/lollipop.png";
 
 export const blank = "";
 export const width = 10;
+export const exception = [
+  width - 2,
+  width - 1,
+  width * 2 - 2,
+  width * 2 - 1,
+  width * 3 - 2,
+  width * 3 - 1,
+  width * 4 - 2,
+  width * 4 - 1,
+  width * 5 - 2,
+  width * 5 - 1,
+  width * 6 - 2,
+  width * 6 - 1,
+  width * 7 - 2,
+  width * 7 - 1,
+  width * 8 - 2,
+  width * 8 - 1,
+  width * 9 - 2,
+  width * 9 - 1,
+];
 export const sweetPuzzle = [biscuit, cookies, cottonCandy, donut, lollipop];
-export const exception = [8, 9, 18, 19, 28, 29, 30, 38, 39, 48, 49, 58, 59, 68, 69, 78, 79, 88, 89, 98, 99];
