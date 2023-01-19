@@ -3,8 +3,9 @@ import cookies from "../images/cookies.png";
 import cottonCandy from "../images/cottonCandy.png";
 import donut from "../images/donut.png";
 import lollipop from "../images/lollipop.png";
+import blank from "../images/blank.png";
 
-export const blank = "";
+export { blank };
 export const width = 10;
 export const exception = [
   width - 2,
