@@ -1,4 +1,3 @@
-import React from "react";
 import Sweetpang from "./components/Sweetpang";
 
 function App() {

@@ -1,9 +1,9 @@
-import biscuit from "../images/biscuit.png";
-import cookies from "../images/cookies.png";
-import cottonCandy from "../images/cottonCandy.png";
-import donut from "../images/donut.png";
-import lollipop from "../images/lollipop.png";
-import blank from "../images/blank.png";
+import biscuit from "../assets/biscuit.png";
+import cookies from "../assets/cookies.png";
+import cottonCandy from "../assets/cottonCandy.png";
+import donut from "../assets/donut.png";
+import lollipop from "../assets/lollipop.png";
+import blank from "../assets/blank.png";
 
 export { blank };
 export const width = 10;
